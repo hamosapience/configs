@@ -1,0 +1,14 @@
+[color]
+	ui = auto
+[alias]
+	c = checkout
+	p = cherry-pick
+	co = checkout
+	ci = commit
+	st = status
+	br = branch
+	a = add
+	d = diff
+[user]
+	email = kalle@yandex-team.ru
+	name = Valentine Kamenek
