@@ -1,0 +1,9 @@
+Protocol 2
+Host do1
+	Hostname 188.226.149.77
+	User hamo
+
+Host prom
+	Hostname 91.135.153.35
+	User aisseday
+	Port 9876
